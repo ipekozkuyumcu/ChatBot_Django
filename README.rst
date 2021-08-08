@@ -12,6 +12,7 @@ Documentation
 To start using this app ypu should follow these steps if you are using PyCharm: 
 - Project requries python 3.7. 
 - After opening the project in PyCharm, a new interpreter should be created by selecting python 3.7. 
+- From settings new interpreter can be added to PyCharm, then interpreter 3.7 should be selected as this project's interpreter. 
 - A new configuration should be added by selecting python from the configuration list. 
 -- Inside the script path you should specify: (your project folder name)\django_app\manage.py
 -- For parameters you can use: runserver 127.0.0.1:8000, or whatever you like. 
