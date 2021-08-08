@@ -2,7 +2,7 @@
 Chatbot project using Django Python
 =========================
 
-This project is built during my internship at Enqura Information Technologies, Istanbul - Turkey. 
+This project is created during my internship at Enqura Information Technologies, Istanbul - Turkey.
 
 It is a web based chatbot project using Python ChatterBot library and Django. 
 
