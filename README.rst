@@ -9,8 +9,8 @@ It is a web based chatbot project using Python ChatterBot library and Django.
 Documentation
 -------------
 
-To start using this app ypu should follow these steps if you are using PyCharm: 
-- Project requries python 3.7. 
+To start using this app you should follow these steps if you are using PyCharm: 
+- Project requires python 3.7. 
 - After opening the project in PyCharm, a new interpreter should be created by selecting python 3.7. 
 - A new configuration should be added by selecting python from the configuration list. 
 -- Inside the script path you should specify: (your project folder name)\django_app\manage.py
