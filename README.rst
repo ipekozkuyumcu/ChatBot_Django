@@ -4,7 +4,7 @@ Chatbot project using Django Python
 
 This project is created during my internship at Enqura Information Technologies, Istanbul - Turkey.
 
-It is a web based chatbot project using Python ChatterBot library and Django. Information in this file and requirements are provided by me to make the project work properly for downloaders. Constructed with the help of the existing open-source code of ChatterBot. Logic adapters and Storage adapters are being personalized. 
+It is a web based chatbot project using Python ChatterBot library and Django. Information in this file and requirements are provided by me to make the project work properly for downloaders. Constructed with the help of the existing open-source code of ChatterBot. Logic adapters and Storage adapters are personalized. 
 
 Documentation
 -------------
